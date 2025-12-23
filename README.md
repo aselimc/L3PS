@@ -8,7 +8,7 @@ This repository is the official implementation of the paper:
 > [Ahmet Selim Çanakçı](https://aselimc.github.io)&ast;, [Niclas Vödisch](https://vniclas.github.io/)&ast;, [Kürsat Petek](http://www2.informatik.uni-freiburg.de/~petek/), [Wolfram Burgard](https://www.utn.de/person/wolfram-burgard/), and [Abhinav Valada](https://rl.uni-freiburg.de/people/valada). <br>
 > &ast;Equal contribution. <br> 
 > 
-> *arXiv preprint arXiv:2503.02372*, 2025.
+> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2025
 
 <p align="center">
   <img src="./assets/l3ps_overview.png" alt="Overview of L3PS approach" width="800" />
