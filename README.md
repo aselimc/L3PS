@@ -1,5 +1,5 @@
 # L<sup>3</sup>PS
-[**arXiv**](https://arxiv.org/abs/2503.02372) | [**Website**](https://l3ps.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/jfTeCV9Drz0)
+[**arXiv**](https://arxiv.org/abs/2503.02372) | [**IEEE Xplore**](https://ieeexplore.ieee.org/document/11245657) | [**Website**](https://l3ps.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/jfTeCV9Drz0)
 
 This repository is the official implementation of the paper:
 
@@ -16,11 +16,12 @@ This repository is the official implementation of the paper:
 
 If you find our work useful, please consider citing our paper:
 ```
-@article{canakci2025l3ps,
-  author={Canakci, Ahmet Selim and Vödisch, Niclas and Petek, Kürsat and Burgard, Wolfram and Valada, Abhinav},
-  title={Label-Efficient LiDAR Panoptic Segmentation},
-  journal={arXiv preprint arXiv:2503.02372},
+@inproceedings{canakci2025l3ps,
+  author={Çanakçı, Ahmet Selim and Vödisch, Niclas and Petek, Kürsat and Burgard, Wolfram and Valada, Abhinav},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Label-Efficient LiDAR Panoptic Segmentation}, 
   year={2025},
+  pages={4385-4392},
 }
 ```
 
